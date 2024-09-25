@@ -14,6 +14,16 @@ On completion of the course, the student will have the ability to:
 1. Apply the concepts of Finite Element Formulation and loads
 1. Learn computer applications of FEM.
 
+### Pre-requisites / Skills
+
+1. Basic understanding of Matrix Algebra
+2. Numerical Methods
+3. Solid Mechanics
+4. Fundamental Structural Analysis concepts
+   - Deflection of beams
+   - Bending moments
+   - Shear forces
+
 #### Syllabus Content:
 - Introduction: History and Applications. Spring and Bar Elements, Minimum Potential Energy
 Principle, Direct Stiffness Method, Nodal Equilibrium equations, Assembly of Global Stiffness
@@ -31,6 +41,9 @@ Strain and Stress Computations.
 Commercial FEA Software.
 
 #### Reference Books:
+
+1. A first course in the finite element method by Daryl L. Logan, ISBN:9780534552985, Publisher:Thomson
+1. Finite Element Procedures by	Klaus-Jürgen Bathe, ISBN	0979004950
 1. Finite Element Analysis, Seshu P., Prentice-Hall of India
 1. Concepts and Applications of Finite Element Analysis, Cook R. D., Wiley J., New York
 1. Fundamentals of Finite Element Analysis, Hutton David, Mc-Graw Hill
